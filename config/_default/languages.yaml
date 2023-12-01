@@ -7,3 +7,4 @@ fr:
   languageName: Français
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
+    organizations: /organisations/:slug/
