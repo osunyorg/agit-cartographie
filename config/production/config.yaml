@@ -2,6 +2,11 @@
 
 baseURL: https://cartographie.agit.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 96e8b25a-3f08-416f-ab10-1082cdeb2451
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
