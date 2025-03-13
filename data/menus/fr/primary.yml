@@ -36,4 +36,11 @@ items:
   children: []
   path: "/pages/la-carte"
   file: content/fr/pages/la-carte/_index.html
+- title: Expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/exhibitions"
+  file: content/fr/exhibitions/_index.html
 
